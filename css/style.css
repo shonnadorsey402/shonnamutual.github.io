@@ -28,11 +28,11 @@
             font-family: 'Sofia';
          }
          
-         img #hidden-image {
+         img.#hidden-image {
                   display:none;
           }
 
-         p #hidden-text {
+         p.#hidden-text {
                   display:none;
           }
 
