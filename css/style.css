@@ -1,0 +1,25 @@
+
+         body {
+          height: 100%;
+          padding 10%;
+         }
+
+         html {
+          display: table;
+          margin: auto;
+         }
+
+         body {
+          display: table-cell;
+          vertical-align: middle;
+         }
+
+         img {
+            height: auto;
+            width: 50%;
+         }
+
+         label.desc, legend.desc {
+            color: #213C53;
+               }
+
