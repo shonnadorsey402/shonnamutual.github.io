@@ -1,5 +1,4 @@
-
-         body {
+        body {
           height: 100%;
           padding 10%;
          }
@@ -28,12 +27,12 @@
             color: #213C53;
             font-family: 'Sofia';
          }
-
-         #hidden-text {
+         
+         img #hidden-image {
                   display:none;
           }
 
-         #hidden-image {
+         p #hidden-text {
                   display:none;
           }
 
