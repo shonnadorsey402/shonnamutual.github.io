@@ -4,12 +4,10 @@
          }
 
          html {
-          display: table;
           margin: auto;
          }
 
          body {
-          display: table-cell;
           vertical-align: middle;
          }
 
@@ -18,9 +16,9 @@
             width: 50%;
          }
 
-         label.desc, legend.desc {
-            color: #213C53;
-               }
+         #hideimage {
+                  display:none;
+          }
 
           p {
             font-size: 2em;
@@ -28,11 +26,7 @@
             font-family: 'Sofia';
          }
          
-         img.#hidden-image {
-                  display:none;
-          }
-
-         p.#hidden-text {
+         #hidetext {
                   display:none;
           }
 
