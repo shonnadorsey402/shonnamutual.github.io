@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('#hideimage').fadeIn(300);
-  $('#hidetext').fadeIn(750);
-   $("html body").animate({ backgroundColor: "#333333" }, 1000);
+  $("#hideimage").fadeIn(300);
+  $("#hidetext").fadeIn(750);
+   $("body").animate({backgroundColor: "rgb( 20, 20, 20 )" }, 1000);
 });
